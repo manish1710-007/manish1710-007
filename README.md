@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 I'm Manish Kumar, a tech enthusiast with a passion for software development. <br>and passionate about crafting elegant solutions to complex problems.<br><br>💻 With 2 years of experience in the industry, I've had the opportunity to work on a variety of projects, ranging from Docker, CI CD Pipelines, SpringBoot, Spring, and more.<br><br>🌟 My expertise lies in Java, Python, C#, MERN, SpringBoot, Spring, PostgreSQL, DSA, and more, and I'm always eager to expand my skills further. <br><br>🚀 Currently, I'm focused on building projects. I'm developing a Real-Time Logistics & Fleet Management System.<br><br>📦 check out my portfolio: https://sites.google.com/view/violetbeam<br><br>☘ Outside of coding, you can find me reading Manga/Books, video games, cricket, tech-related stuff, and more. <br>
+I’m Manish Kumar, a software engineer focused on building reliable backend systems and full-stack applications.
+
+My primary stack is Java + Spring Boot, with PostgreSQL, Redis, RabbitMQ, Flyway, Maven, Docker, and Kubernetes. I enjoy working on modular monoliths, microservices, domain-driven design, distributed systems, and backend architecture, with an emphasis on clear boundaries, maintainability, and systems that can evolve as requirements grow.
+
+I also work with Python, C#, JavaScript/TypeScript, and the MERN stack, with hands-on experience in REST/gRPC APIs, CI/CD, and automated architecture/testing practices.
+
+Currently building: a real-time logistics and fleet management platform focused on modular architecture, domain boundaries, event-driven communication, and scalable backend design. <br>
 
 
 ## 🌐 Socials:
